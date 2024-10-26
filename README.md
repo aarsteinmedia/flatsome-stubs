@@ -1,6 +1,6 @@
 # Flatsome Stubs
 
-This package provides stub declarations for [FLATSOME_](http://flatsome.uxthemes.com) core functions, classes, interfaces, and global variables.  These stubs can help plugin and theme developers leverage static analysis tools like [Psalm](https://getpsalm.org/) and plugins like Intellisense, Intelephense.
+This package provides stub declarations for [Flatsome](http://flatsome.uxthemes.com) core functions, classes, interfaces, and global variables.  These stubs can help plugin and theme developers leverage static analysis tools like [Psalm](https://getpsalm.org/) and plugins like Intellisense, Intelephense.
 
 ## Installation
 

@@ -1,0 +1,7 @@
+vendor
+flatsome
+
+*.test.*
+.vscode
+
+.DS_Store
